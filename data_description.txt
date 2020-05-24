@@ -12,7 +12,7 @@ px_width: Pixel Resolution Width.
 ram: Random Access Memory in Megabytes.
 sc_h: Screen Height of mobile in cm.
 sc_w: Screen Width of mobile in cm.
-talk_time: longest time that a single battery charge will last when you are on a call.
+talk_time: longest time that a single battery charge will last when you are on a call, in Hours.
 three_g: Has 3G or not.
 touch_screen: Has touch screen or not.
 wifi: Has wifi or not.
