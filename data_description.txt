@@ -16,3 +16,7 @@ talk_time: longest time that a single battery charge will last when you are on a
 three_g: Has 3G or not.
 touch_screen: Has touch screen or not.
 wifi: Has wifi or not.
+
+------------New Columns---------------
+
+screen_size: Screen size diagonally in inches.
