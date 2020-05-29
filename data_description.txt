@@ -20,3 +20,23 @@ wifi: Has wifi or not.
 ------------New Columns---------------
 
 screen_size: Screen size diagonally in inches.
+
+
+1-variable plots:
+- n_cores[bar]
+- clock_speed[pie]
+- screen_size[density]
+
+
+2-variable plots:
+- price_range x battery_power[box]
+- talk_time x dual_sim[bar]
+- screen_size x back_cam_mp[line]
+- ram x price_range[hist2d]
+
+
+3-variable plots:
+-line[]
+-scatter 3d
+-
+
