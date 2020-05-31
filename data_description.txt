@@ -21,24 +21,20 @@ wifi: Has wifi or not.
 
 screen_size: Screen size diagonally in inches.
 
-
+----------------Plots----------------
 1-variable plots:
-- n_cores[bar]
-- clock_speed[pie]
-- screen_size[density]
+- n_cores [bar]
+- clock_speed [pie]
+- screen_size [density]
 
 
 2-variable plots:
-- price_range x battery_power[box]
-- talk_time x dual_sim[bar]
-- ram x price_range[hist2d]
+- price_range vs. battery_power [box]
+- talk_time vs. dual_sim [bar]
+- ram vs. price_range [hist2d]
 
 
 3-variable plots:
-- int_memory, front_cam_mp, four_g [line]
--  battery_power,back_cam_mp,screen_size
--  ram, battery_power, price_range,screen_size 
-
-==================================
-1-4 akshay
-5
+- int_memory vs. front_cam_mp vs. four_g [line]
+- battery_power vs. back_cam_mp vs. screen_size
+- ram, battery_power vs. price_range vs. screen_size 
